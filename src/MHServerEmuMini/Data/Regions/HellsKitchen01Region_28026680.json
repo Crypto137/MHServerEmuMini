@@ -1,0 +1,382 @@
+{
+  "2": {
+    "PrototypeDataRef": 12530596786106276146,
+    "Origin": {
+      "X": -5760,
+      "Y": -9216,
+      "Z": 0
+    },
+    "Cells": {
+      "11": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NE_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "12": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NES_AA.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "13": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NES_AA.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "14": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_Barricade_NES_A.cell",
+        "Position": {
+          "X": 6912,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "15": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NES_AA.cell",
+        "Position": {
+          "X": 9216,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "16": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_ES_AA.cell",
+        "Position": {
+          "X": 11520,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "17": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NEW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "18": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_NYPD/Brownstone_NYPD_Entry.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "19": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_Attorney_NESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "20": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_Barricade_NESW_A.cell",
+        "Position": {
+          "X": 6912,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "21": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_NESW_C.cell",
+        "Position": {
+          "X": 9216,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "22": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/Brownstone_Entry_ESW.cell",
+        "Position": {
+          "X": 11520,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "23": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NEW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "24": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/Brownstone_RhinoWreck_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "25": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/Brownstone_RhinoWreck_B.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "26": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_Church_X0_Y0.cell",
+        "Position": {
+          "X": 6912,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "27": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_Church_X1_Y0.cell",
+        "Position": {
+          "X": 9216,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "28": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_ESW_SCInstEntry_B.cell",
+        "Position": {
+          "X": 11520,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "29": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NEW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "30": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_NESW_SCInstEntry.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "31": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_Gym_NESW_C.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "32": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_Church_X0_Y1.cell",
+        "Position": {
+          "X": 6912,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "33": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_Church_X1_Y1.cell",
+        "Position": {
+          "X": 9216,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "34": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_Barricade_ESW_A.cell",
+        "Position": {
+          "X": 11520,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "35": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NEW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "36": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_B/Brownstone_B_NESW_B.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "37": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_NESW_B.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "38": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_D/Brownstone_Pill_A1_X0_Y0.cell",
+        "Position": {
+          "X": 6912,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "39": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_D/Brownstone_Pill_A2_X1_Y0.cell",
+        "Position": {
+          "X": 9216,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "40": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_ESW_AA.cell",
+        "Position": {
+          "X": 11520,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "41": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 11520,
+          "Z": 0
+        }
+      },
+      "42": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NSW_AA.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 11520,
+          "Z": 0
+        }
+      },
+      "43": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NESWcE_AA.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 11520,
+          "Z": 0
+        }
+      },
+      "44": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_Arson_NSW_A.cell",
+        "Position": {
+          "X": 6912,
+          "Y": 11520,
+          "Z": 0
+        }
+      },
+      "45": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_C/Brownstone_C_NSW_SCInstEntry.cell",
+        "Position": {
+          "X": 9216,
+          "Y": 11520,
+          "Z": 0
+        }
+      },
+      "46": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_SW_AA.cell",
+        "Position": {
+          "X": 11520,
+          "Y": 11520,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "3": {
+    "PrototypeDataRef": 14871982488832712191,
+    "Origin": {
+      "X": -3456,
+      "Y": 4608,
+      "Z": 0
+    },
+    "Cells": {
+      "2": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NE_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "3": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NESWcW_AA.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "4": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_ES_AA.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "5": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NEW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "6": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/Brownstone_Subway_Entry.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "7": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_ESW_AA.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "8": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NW_AA.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "9": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_NSW_AA.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "10": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_A_A/Brownstone_A_SW_AA.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 4608,
+          "Z": 0
+        }
+      }
+    }
+  }
+}

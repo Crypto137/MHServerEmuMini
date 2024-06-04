@@ -1,0 +1,132 @@
+{
+  "34": {
+    "PrototypeDataRef": 1208433443895252597,
+    "Origin": {
+      "X": -2304,
+      "Y": -6656,
+      "Z": 0
+    },
+    "Cells": {
+      "96": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/ShockerSubway/ShockerSubway_A/ShockerSubway_A_E_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "35": {
+    "PrototypeDataRef": 18179445807517472424,
+    "Origin": {
+      "X": -2304,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "95": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/SubwaySewerEntry_A_NW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "38": {
+    "PrototypeDataRef": 15401489521954265850,
+    "Origin": {
+      "X": 1024,
+      "Y": -2304,
+      "Z": -0
+    },
+    "Cells": {
+      "89": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Factory_A/Factory_A_NES_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "90": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Factory_A/Factory_A_ES_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "91": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Factory_B/Factory_B_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "92": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/ShockerSubway/ShockerMaint_A/ShockerMaint_A_SW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "93": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Factory_B/Factory_B_NSW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "94": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Factory_A/Factory_A_S_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "39": {
+    "PrototypeDataRef": 2540744166112040568,
+    "Origin": {
+      "X": -2304,
+      "Y": 2304,
+      "Z": 0
+    },
+    "Cells": {
+      "88": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/ShockerSubway/ShockerSubway_A/ShockerSubway_A_NE_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "40": {
+    "PrototypeDataRef": 11149033283672610425,
+    "Origin": {
+      "X": -2304,
+      "Y": 6656,
+      "Z": 0
+    },
+    "Cells": {
+      "87": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/ShockerSubway/ShockerSubway_A/ShockerSubway_A_W_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  }
+}

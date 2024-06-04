@@ -1,0 +1,604 @@
+{
+  "4": {
+    "PrototypeDataRef": 303804885961873756,
+    "Origin": {
+      "X": -3456,
+      "Y": -9216,
+      "Z": 0
+    },
+    "Cells": {
+      "69": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_SubwayEXT_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "5": {
+    "PrototypeDataRef": 3089607264874273008,
+    "Origin": {
+      "X": -3456,
+      "Y": -6912,
+      "Z": 0
+    },
+    "Cells": {
+      "68": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_Clea_SW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "6": {
+    "PrototypeDataRef": 11889818394597201756,
+    "Origin": {
+      "X": -5760,
+      "Y": -6912,
+      "Z": 0
+    },
+    "Cells": {
+      "67": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_NE_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "7": {
+    "PrototypeDataRef": 7246222624587126621,
+    "Origin": {
+      "X": -5760,
+      "Y": -4608,
+      "Z": 0
+    },
+    "Cells": {
+      "66": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "8": {
+    "PrototypeDataRef": 5599333980625508190,
+    "Origin": {
+      "X": -3456,
+      "Y": -4608,
+      "Z": 0
+    },
+    "Cells": {
+      "65": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_ES_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "9": {
+    "PrototypeDataRef": 10351577529504569514,
+    "Origin": {
+      "X": -3456,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "64": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_INT_ESW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "10": {
+    "PrototypeDataRef": 1574128293383968608,
+    "Origin": {
+      "X": -5760,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "63": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_NEW_B.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "11": {
+    "PrototypeDataRef": 15300613148836763489,
+    "Origin": {
+      "X": -5760,
+      "Y": 0,
+      "Z": 0
+    },
+    "Cells": {
+      "62": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_Parking_W_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "12": {
+    "PrototypeDataRef": 13511461882358668256,
+    "Origin": {
+      "X": -3456,
+      "Y": 0,
+      "Z": 0
+    },
+    "Cells": {
+      "61": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/NightClub_Trans/NightClub_To_Warehouse_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "13": {
+    "PrototypeDataRef": 8622499399103290545,
+    "Origin": {
+      "X": -3456,
+      "Y": 2304,
+      "Z": 0
+    },
+    "Cells": {
+      "60": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/Warehouse_NightClub_Entry.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "14": {
+    "PrototypeDataRef": 3062757944842066734,
+    "Origin": {
+      "X": -1152,
+      "Y": 0,
+      "Z": 0
+    },
+    "Cells": {
+      "54": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_B/Warehouse_B_NE_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "55": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_NES_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "56": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_B/Warehouse_B_S_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "57": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_B/Warehouse_B_NSW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "58": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_ESW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "59": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 2304,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "15": {
+    "PrototypeDataRef": 8281455466490829616,
+    "Origin": {
+      "X": 1152,
+      "Y": 4608,
+      "Z": 0
+    },
+    "Cells": {
+      "48": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_B/Warehouse_B_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "49": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_B/Warehouse_B_ES_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "50": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "51": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_NSW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "52": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_B/Warehouse_B_W_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "53": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "16": {
+    "PrototypeDataRef": 10611694432587422900,
+    "Origin": {
+      "X": 5760,
+      "Y": 6912,
+      "Z": 0
+    },
+    "Cells": {
+      "47": {
+        "PrototypeName": "Resource/Cells/Hells_Kitchen_01/Brownstone_Trans/Warehouse_S_Boss_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "17": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "70": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "18": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 1152,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "71": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "19": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 3456,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "72": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "20": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 4608,
+      "Z": 0
+    },
+    "Cells": {
+      "73": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "21": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": -2304,
+      "Z": 0
+    },
+    "Cells": {
+      "74": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "22": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -3456,
+      "Y": 4608,
+      "Z": 0
+    },
+    "Cells": {
+      "75": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "23": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": 0,
+      "Z": 0
+    },
+    "Cells": {
+      "76": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "24": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": 2304,
+      "Z": 0
+    },
+    "Cells": {
+      "77": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "25": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": 4608,
+      "Z": 0
+    },
+    "Cells": {
+      "78": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "26": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 3456,
+      "Y": 11520,
+      "Z": 0
+    },
+    "Cells": {
+      "79": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "27": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 1152,
+      "Y": 11520,
+      "Z": 0
+    },
+    "Cells": {
+      "80": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "28": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 11520,
+      "Z": 0
+    },
+    "Cells": {
+      "81": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "29": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 9216,
+      "Z": 0
+    },
+    "Cells": {
+      "82": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "30": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 6912,
+      "Z": 0
+    },
+    "Cells": {
+      "83": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "31": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": 9216,
+      "Z": 0
+    },
+    "Cells": {
+      "84": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "32": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": 11520,
+      "Z": 0
+    },
+    "Cells": {
+      "85": {
+        "PrototypeName": "Resource/Cells/ReuseableInstances/Warehouse_A/Warehouse_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  }
+}

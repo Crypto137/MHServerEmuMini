@@ -1,0 +1,920 @@
+{
+  "2": {
+    "PrototypeDataRef": 9826734473350683278,
+    "Origin": {
+      "X": 1152,
+      "Y": 3456,
+      "Z": 0
+    },
+    "Cells": {
+      "32": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NE_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "33": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NESWcW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "34": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ES_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "35": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "36": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_Trans/BovineSector_Entry_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "37": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "38": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "39": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NSW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "40": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_SW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 4608,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "3": {
+    "PrototypeDataRef": 1278447187083270799,
+    "Origin": {
+      "X": 1152,
+      "Y": -8064,
+      "Z": 0
+    },
+    "Cells": {
+      "17": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NE_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "18": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NES_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "19": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ES_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "20": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "21": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_C/BovineSector_C_NESW_C.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "22": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "23": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "24": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NESW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "25": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "26": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NESWcS_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "27": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_C/BovineSector_C_NESW_D.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "28": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "29": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "30": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NESWcE_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "31": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_SW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 9216,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "4": {
+    "PrototypeDataRef": 15002382275071253136,
+    "Origin": {
+      "X": -5760,
+      "Y": -5760,
+      "Z": 0
+    },
+    "Cells": {
+      "2": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NE_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "3": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NES_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "4": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ES_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "5": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "6": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_C/BovineSector_C_NESW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "7": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 2304,
+          "Z": 0
+        }
+      },
+      "8": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "9": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NESW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "10": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NESWcN_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 4608,
+          "Z": 0
+        }
+      },
+      "11": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NEW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "12": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_C/BovineSector_C_NESW_B.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "13": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_ESW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 6912,
+          "Z": 0
+        }
+      },
+      "14": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NW_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "15": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_NSW_A.cell",
+        "Position": {
+          "X": 2304,
+          "Y": 9216,
+          "Z": 0
+        }
+      },
+      "16": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_SW_A.cell",
+        "Position": {
+          "X": 4608,
+          "Y": 9216,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "5": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": 10368,
+      "Z": 0
+    },
+    "Cells": {
+      "41": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "6": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 3456,
+      "Y": 10368,
+      "Z": 0
+    },
+    "Cells": {
+      "42": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "7": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 1152,
+      "Y": 10368,
+      "Z": 0
+    },
+    "Cells": {
+      "43": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "8": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": 1152,
+      "Z": 0
+    },
+    "Cells": {
+      "44": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "9": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 10368,
+      "Z": 0
+    },
+    "Cells": {
+      "45": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "10": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": 3456,
+      "Z": 0
+    },
+    "Cells": {
+      "46": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "11": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 8064,
+      "Z": 0
+    },
+    "Cells": {
+      "47": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "12": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": 5760,
+      "Z": 0
+    },
+    "Cells": {
+      "48": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "13": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": 5760,
+      "Z": 0
+    },
+    "Cells": {
+      "49": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "14": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": 8064,
+      "Z": 0
+    },
+    "Cells": {
+      "50": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "15": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": 10368,
+      "Z": 0
+    },
+    "Cells": {
+      "51": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "16": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 1152,
+      "Y": -10368,
+      "Z": 0
+    },
+    "Cells": {
+      "52": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "17": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 3456,
+      "Y": -10368,
+      "Z": 0
+    },
+    "Cells": {
+      "53": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "18": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 5760,
+      "Y": -10368,
+      "Z": 0
+    },
+    "Cells": {
+      "54": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "19": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": -10368,
+      "Z": 0
+    },
+    "Cells": {
+      "55": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "20": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": -8064,
+      "Z": 0
+    },
+    "Cells": {
+      "56": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "21": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": -5760,
+      "Z": 0
+    },
+    "Cells": {
+      "57": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "22": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": -3456,
+      "Z": 0
+    },
+    "Cells": {
+      "58": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "23": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": 8064,
+      "Y": -1152,
+      "Z": 0
+    },
+    "Cells": {
+      "59": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "24": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": -8064,
+      "Z": 0
+    },
+    "Cells": {
+      "60": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "25": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -1152,
+      "Y": -10368,
+      "Z": 0
+    },
+    "Cells": {
+      "61": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "26": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -5760,
+      "Y": -8064,
+      "Z": 0
+    },
+    "Cells": {
+      "62": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "27": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -3456,
+      "Y": -8064,
+      "Z": 0
+    },
+    "Cells": {
+      "63": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "28": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -3456,
+      "Y": 5760,
+      "Z": 0
+    },
+    "Cells": {
+      "64": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "29": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -5760,
+      "Y": 5760,
+      "Z": 0
+    },
+    "Cells": {
+      "65": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "30": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": 5760,
+      "Z": 0
+    },
+    "Cells": {
+      "66": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "31": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": 3456,
+      "Z": 0
+    },
+    "Cells": {
+      "67": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "32": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": 1152,
+      "Z": 0
+    },
+    "Cells": {
+      "68": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "33": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": -1152,
+      "Z": 0
+    },
+    "Cells": {
+      "69": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "34": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": -3456,
+      "Z": 0
+    },
+    "Cells": {
+      "70": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "35": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": -5760,
+      "Z": 0
+    },
+    "Cells": {
+      "71": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "36": {
+    "PrototypeDataRef": 4444103529891762304,
+    "Origin": {
+      "X": -8064,
+      "Y": -8064,
+      "Z": 0
+    },
+    "Cells": {
+      "72": {
+        "PrototypeName": "Resource/Cells/EndGame/BovineSector/BovineSector_A/BovineSector_A_FILLER_A.cell",
+        "Position": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    }
+  }
+}
