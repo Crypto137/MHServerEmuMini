@@ -1,5 +1,9 @@
 # MHServerEmuMini
 
+**If you are looking for a server emulator for game version 1.10, please see [MHServerEmu2013](https://github.com/Crypto137/MHServerEmu2013). This repository will stay up in archived state for reference purposes.**
+
+---
+
 MHServerEmuMini is a more lightweight and flexible version of [MHServerEmu](https://github.com/Crypto137/MHServerEmu). It has fewer features compared to the main server, but can be more easily adapted to different versions of the game client.
 
 The currently supported version of the client is **1.10.0.643**.
